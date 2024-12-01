@@ -2,7 +2,7 @@
 [[aws] ec2를 통해 백엔드 api 서버 배포하기 (2)](https://sbi1024.github.io/aws/ec2/2) 블로그의 게시글에서 sample로 제공되는 프로젝트 입니다.
 
 # 사용법
-위 블로그의 게시글을 읽으셨다는 가정하에, 아래의 명령어를 통해 위 프로젝트를 aws ex2 ubuntu 환경에서 배포하시면 되시겠습니다.
+위 블로그의 게시글을 읽으셨다는 가정하에, 아래의 명령어를 통해 위 프로젝트를 aws ex2 ubuntu 환경에서 실행하시면 됩니다.
 
 1. sudo apt update
 2. sudo apt install openjdk-17-jdk -y
