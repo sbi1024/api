@@ -14,9 +14,11 @@
 
 # 결과 
 7번의 `sudo java -jar api-0.0.1-SNAPSHOT.jar` 실행후 port 80 으로 실행되는지 확인필요.
+
 <img width="1885" alt="스크린샷 2024-12-01 오후 2 15 15" src="https://github.com/user-attachments/assets/75985111-5059-4744-a00f-aaed8830af4b">
 
 본인의 ipv4 값으로 브라우저 접속시에 다음과 같은 문구가 화면에 출력되어야 합니다.
+
 <img width="1907" alt="스크린샷 2024-12-01 오후 2 18 18" src="https://github.com/user-attachments/assets/44a9772b-c3b3-496d-b5a2-33bbbd08fb00">
 
 문구가 정상적으로 출력되었다면 ec2를 통해 위 sample 프로젝트가 정상적으로 배포되었음을 알 수 있습니다.
