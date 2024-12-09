@@ -1,3 +1,6 @@
+### 특이사항
+24.12.09 : health API 추가
+
 # 개요
 [[aws] ec2를 통해 백엔드 api 서버 배포하기 (2)](https://sbi1024.github.io/devops/aws/2) 블로그의 게시글에서 sample로 제공되는 프로젝트 입니다.
 
